@@ -2,7 +2,7 @@
 
 ### 欢迎来访！
 
-> You can call me Aritx Zhou, Aritx, or in Chinese: 音唯
+My name is Aritx Zhou aka. 音唯
 
 #### Something about myself
 
@@ -12,11 +12,11 @@
 
 - 💪 Working hard transfering to Computer Science
 
-- 💻 Currently coding **C++** and **Python**, but I will keep learning more skills such as C#, Vue and etc.
+- 💻 Currently coding **C++** and **Python**, but I will keep learning more skills such as C#, Vue, etc.
 
-- 🎹 Amateur electronic music producer passionate about *Bass Music*
+- 🎹 Amateur electronic music producer passionate about Melodic *Bass Music*
 
-- ✈ Games playing: Flight simulator such as *MSFS2020* and *X-Plane 12*
+- ✈️ Games playing: Flight simulator such as *MSFS2020* and *X-Plane 12*
 
 - 📫 How to reach me: by simply send me an email **aritxonly@qq.com**
 
