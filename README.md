@@ -8,7 +8,7 @@ My name is Aritx Zhou aka. 音唯
 
 - 😸 19-year-old guy from Wuhan, China
 
-- 🥰 Studying at **Nanjing University** (NJU) as a Bachelor of Commerce & Management
+- 👨‍🎓 Studying at **Nanjing University** (NJU) as a Bachelor of Commerce & Management
 
 - 💪 Working hard transfering to Computer Science
 
