@@ -10,9 +10,9 @@ My name is Aritx Zhou aka. 音唯
 
 - 📖 Studying at **Nanjing University** (NJU) as a Bachelor of Commerce & Management
 
-- 💪 Working hard transfering to Computer Science
+- 💪 Working hard transfering to Computer Science next year
 
-- 💻 Currently coding **C++** and **Python**, but I will keep learning more skills such as C#, Vue, etc.
+- 💻 Currently coding **C++**, **Python** and **Kotlin**, but I will keep learning more skills such as C#, Vue, etc.
 
 - 🎹 Amateur electronic music producer passionate about Melodic *Bass Music*
 
