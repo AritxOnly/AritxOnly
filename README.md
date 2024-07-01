@@ -12,7 +12,7 @@ My name is Aritx Zhou aka. 音唯
 
 - 💪 Keep learning Computer Science whether I am in CS-Apartment
 
-- 💻 Currently coding **C++**, **Python** and **Kotlin**, but I will keep learning more skills such as C#, Vue, etc.
+- 💻 Currently coding **C++**, **Python**, **Kotlin** and **HTML/JS**, but I will keep learning more skills such as C# and etc.
 
 - 🎹 Amateur electronic music producer passionate about Melodic *Bass Music*
 
