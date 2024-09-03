@@ -10,7 +10,7 @@ My name is Aritx Zhou aka. 音唯
 
 - 📖 Studying at **Nanjing University** (NJU) as a Bachelor of Commerce & Management
 
-- 💪 Keep learning Computer Science whether I am in CS-Apartment
+- 💪 Keep learning Computer Science, do my best to transfering to it.
 
 - 💻 Currently coding **C++**, **Python**, **Rust**, **Kotlin** and **HTML/JS**, but I will keep learning more skills such as C# and etc.
 
