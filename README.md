@@ -4,7 +4,7 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AritxOnly&theme=github-compact&hide_border=true&area=true" />
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,kotlin,html,js,md,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch,rust,kotlin,androidstudio,html,css,js,qt,ableton)](https://skillicons.dev)
 
 #### Something about myself
 
