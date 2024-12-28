@@ -23,6 +23,6 @@ jobs:
           user: AritxOnly
           template: classic
           # 注意拼写要正确
-          base: header, repositories
+          base: header, repositories, activities
           plugin_calendar: yes
           plugin_calendar_limit: 2
