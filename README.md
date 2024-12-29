@@ -36,7 +36,6 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
 
 #### Here's my social media page!
 
-<p>
   <a href="https://space.bilibili.com/283375530">
     <img src="https://img.shields.io/badge/-Bilibili-%2300A1D6?style=flat&logo=bilibili&logoColor=%23FFFFFF&label=%20&labelColor=%23000000&color=%2300A1D6&link=https%3A%2F%2Fspace.bilibili.com%2F283375530" />
   </a>
@@ -49,7 +48,6 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
   <a href="https://soundcloud.com/aritx-zhou">
     <img src="https://img.shields.io/badge/-Soundcloud-%23FF5500?style=flat&logo=soundcloud&logoColor=%23FFFFFF&label=%20&labelColor=%23000000&color=%23FF5500&link=https%3A%2F%2Fsoundcloud.com%2Faritx-zhou" />
   </a>
-</p>
 
 <!--
 ![Bilibili](https://img.shields.io/badge/-Bilibili-%2300A1D6?style=flat&logo=bilibili&logoColor=%23FFFFFF&label=%20&labelColor=%23000000&color=%2300A1D6&link=https%3A%2F%2Fspace.bilibili.com%2F283375530)
