@@ -3,9 +3,20 @@
 My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing University** (NJU) and interested in all kinds of new technologies! Currently learning Computer Vision.
 
 <!--<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AritxOnly&theme=github-compact&hide_border=true&area=true" />-->
-![Metrics](/github-metrics.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch,rust,kotlin,html,js,qt)](https://skillicons.dev)
+<p align="center">
+  <img src="/github-metrics.svg">
+</p>
+
+<!-- ![Metrics](/github-metrics.svg) -->
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch,rust,kotlin,html,js,qt)](https://skillicons.dev) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=light" />
+  <img src="https://skillicons.dev/icons?i=pytorch,rust,html,js,kotlin" />
+  <img src="https://skillicons.dev/icons?i=qt&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ableton" />
+</p>
 
 #### Something about myself
 
