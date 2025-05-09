@@ -22,7 +22,7 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
 
 #### Something about myself
 
-- 😸 19-year-old guy from Wuhan, China
+- 😸 20-year-old guy from Wuhan, China
 
 - 📖 Studying at **Nanjing University** (NJU) as a Bachelor of Commerce & Management
 
