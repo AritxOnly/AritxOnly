@@ -1,6 +1,6 @@
 ### Yo! Welcome to my Github profile 👋
 
-My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing University** (NJU) and interested in all kinds of new technologies! Currently learning Computer Vision.
+My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing University** (NJU) and interested in all kinds of new technologies! Currently learning Agents in NJU-MCG. Working as an intern of ByteDance (Backend dev).
 
 <!--<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AritxOnly&theme=github-compact&hide_border=true&area=true" />-->
 
@@ -12,11 +12,11 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
 
 <!-- ![Metrics](/github-metrics.svg) -->
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch,rust,kotlin,html,js,qt)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,pytorch,rust,kotlin,html,ts,qt)](https://skillicons.dev) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=light" />
-  <img src="https://skillicons.dev/icons?i=pytorch,rust,html,js,kotlin" />
-  <img src="https://skillicons.dev/icons?i=java,qt&theme=light" />
+  <img src="https://skillicons.dev/icons?i=pytorch,rust,astro,react,kotlin" />
+  <img src="https://skillicons.dev/icons?i=ts,qt&theme=light" />
   <img src="https://skillicons.dev/icons?i=ableton" />
 </p>
 
