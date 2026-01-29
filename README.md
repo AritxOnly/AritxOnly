@@ -16,7 +16,7 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=light" />
   <img src="https://skillicons.dev/icons?i=pytorch,rust,astro,react,kotlin" />
-  <img src="https://skillicons.dev/icons?i=ts,qt&theme=light" />
+  <img src="https://skillicons.dev/icons?i=go,ts,qt&theme=light" />
   <img src="https://skillicons.dev/icons?i=ableton" />
 </p>
 
