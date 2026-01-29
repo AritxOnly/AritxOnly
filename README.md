@@ -1,6 +1,6 @@
 ### Yo! Welcome to my Github profile 👋
 
-My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing University** (NJU) and interested in all kinds of new technologies! Currently learning Agents in NJU-MCG.
+My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing University** (NJU) and interested in all kinds of new technologies! Currently learning Agents in NJU-MCG. Working for ByteDance as a Backend Engineer.
 
 <!--<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AritxOnly&theme=github-compact&hide_border=true&area=true" />-->
 
@@ -27,6 +27,8 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
 - 📖 Studying at **Nanjing University** (NJU) as a Bachelor of Commerce & Management
 
 - 💪 Keep learning Computer Science, do my best to transfering to it.
+
+- 👨‍💻 **ByteIntern** ByteDance Backend Engineer.
 
 - 🎹 Amateur electronic music producer passionate about Melodic *Bass Music*
 
