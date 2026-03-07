@@ -32,7 +32,7 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
 
 - 🎹 Amateur electronic music producer passionate about Melodic *Bass Music*
 
-- ✈️ Games playing: Flight simulator such as *MSFS2020* and *X-Plane 12*
+- 🏎 Games playing: Flight simulator such as *MSFS2020* and **F1 25**
 
 - 📫 How to reach me: by simply send me an email **aritxonly@qq.com**
 
