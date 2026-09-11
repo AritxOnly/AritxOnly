@@ -1,6 +1,8 @@
 ### Yo! Welcome to my Github profile 👋
 
-My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing University** (NJU) and interested in all kinds of new technologies! Currently learning Agents in NJU-MCG. Working for ByteDance as a Backend Engineer.
+> 不想写歌的程序员不是好机友
+
+My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing University** (NJU) and interested in all kinds of new technologies! Currently seeking for another intern opportunities and applying for MS abroad.
 
 <!--<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AritxOnly&theme=github-compact&hide_border=true&area=true" />-->
 
@@ -22,19 +24,24 @@ My name is Aritx Zhou aka. 音唯. A passionate student studying at **Nanjing Un
 
 #### Something about myself
 
-- 😸 20-year-old guy from Wuhan, China
+- 😸 21-year-old guy from Wuhan, China
 
 - 📖 Studying at **Nanjing University** (NJU) as a Bachelor of Commerce & Management
 
 - 💪 Keep learning Computer Science, do my best to transfering to it.
-
-- 👨‍💻 **ByteIntern** ByteDance Backend Engineer.
 
 - 🎹 Amateur electronic music producer passionate about Melodic *Bass Music*
 
 - 🏎 Games playing: Flight simulator such as *MSFS2020* and **F1 25**
 
 - 📫 How to reach me: by simply send me an email **aritxonly@qq.com**
+
+#### Some of the notable events
+
+- **2023.9-2027.7 Nanjing University** Bachelor in Computer Science, also E-Commerce.
+- **2024.12 till now [Deadliner](https://github.com/DeadlinerStudio)** A time management app.
+- **2026.8 till now HyperGlassify** Migrate HyperOS4's glass effect to different projects. [HyperModifier](https://github.com/AritxOnly/HyperModifier) aims to hook system app that are not prepared for glass effects; [HyperPiliPlus](https://github.com/AritxOnly/Hyper-PiliPlus) put the glass look on PiliPlus - a flutter project.
+- **2026.2-2026.9 ByteDance** Finance Backend Engineer.
 
 #### Here's my social media page!
 
