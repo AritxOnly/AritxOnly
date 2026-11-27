@@ -51,7 +51,7 @@ I study at **Nanjing University** — came in through E‑Commerce, stayed for C
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AritxOnly/MeloX-Overtone">🎧 弦外 Overtone</a></h3>
-      <p>Independently maintained NetEase Cloud Music player for iPhone, iPad and Mac, with a redesigned library, word‑by‑word lyrics and an immersive player.</p>
+      <p>Independently maintained NetEase Cloud Music player based on [MeloX](https://github.com/youshen2/MeloX) for Apple devices. Redesigned to fully align Apple Music and enhance some features.</p>
       <a href="https://github.com/AritxOnly/MeloX-Overtone"><img src="https://img.shields.io/github/stars/AritxOnly/MeloX-Overtone?style=flat-square&color=4fa1c9" /></a>
       <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
       <a href="https://www.aritxonly.top/overtone"><img src="https://img.shields.io/badge/Website-Overtone-d43c33?style=flat-square" /></a>
