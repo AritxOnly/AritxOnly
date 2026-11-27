@@ -59,10 +59,10 @@ I study at **Nanjing University** — came in through E‑Commerce, stayed for C
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <sub><b>ALSO ON THE SHELF</b> · HyperOS 4 soft‑glass series &amp; more</sub><br />
-      🪟 <a href="https://github.com/AritxOnly/HyperModifier"><b>HyperModifier</b></a> <img src="https://img.shields.io/github/stars/AritxOnly/HyperModifier?style=flat-square&label=%E2%98%85&color=4fa1c9" /> — HyperGlassify soft‑glass + light system UI tweaks (LSPosed)<br />
-      📺 <a href="https://github.com/AritxOnly/Hyper-PiliPlus"><b>HyperPiliPlus</b></a> <img src="https://img.shields.io/github/stars/AritxOnly/Hyper-PiliPlus?style=flat-square&label=%E2%98%85&color=4fa1c9" /> — HyperOS 4 flavoured PiliPlus with glass effects (Flutter)<br />
-      🏎️ <a href="https://github.com/AritxOnly/F1Info"><b>F1Info</b></a> <img src="https://img.shields.io/github/stars/AritxOnly/F1Info?style=flat-square&label=%E2%98%85&color=4fa1c9" /> — F1 schedule, standings and widgets in soft‑glass style<br />
+      <sub><b>ALSO ON THE SHELF</b> · HyperOS4 soft-glass style &amp; more</sub><br />
+      🪟 <a href="https://github.com/AritxOnly/HyperModifier"><b>HyperModifier</b></a> <img src="https://img.shields.io/github/stars/AritxOnly/HyperModifier?style=flat-square&label=%E2%98%85&color=4fa1c9" /> — HyperGlassify: HyperOS4 soft-glass style + light system UI tweaks (LSPosed)<br />
+      📺 <a href="https://github.com/AritxOnly/Hyper-PiliPlus"><b>HyperPiliPlus</b></a> <img src="https://img.shields.io/github/stars/AritxOnly/Hyper-PiliPlus?style=flat-square&label=%E2%98%85&color=4fa1c9" /> — PiliPlus in HyperOS4 soft-glass style (Flutter)<br />
+      🏎️ <a href="https://github.com/AritxOnly/F1Info"><b>F1Info</b></a> <img src="https://img.shields.io/github/stars/AritxOnly/F1Info?style=flat-square&label=%E2%98%85&color=4fa1c9" /> — F1 schedule, standings and widgets in HyperOS4 soft-glass style<br />
       🎵 <a href="https://github.com/zyl6932/HyperMusicCover"><b>HyperMusicCover</b></a> <img src="https://img.shields.io/github/stars/zyl6932/HyperMusicCover?style=flat-square&label=%E2%98%85&color=4fa1c9" /> — <i>contributor</i> · HyperOS 4 music lock screen: album art as the wallpaper<br />
       🎛️ <a href="https://github.com/AritxOnly/Qt-AbletonLive_ThemeEditor"><b>Ableton Live Theme Editor</b></a> <img src="https://img.shields.io/github/stars/AritxOnly/Qt-AbletonLive_ThemeEditor?style=flat-square&label=%E2%98%85&color=4fa1c9" /> — Qt/C++ theme editor for Ableton Live 12
     </td>
